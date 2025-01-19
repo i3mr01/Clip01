@@ -15,7 +15,8 @@ Clone the Repository:
 
 sh
 git clone https://github.com/i3mr01/clip01.git
-cd clip01-downloader
+cd clip01
+
 Install the Required Packages:
 
 sh
