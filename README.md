@@ -1,5 +1,4 @@
 # Clip01 Downloader
-Clip01 Downloader is a web-based application that lets you download videos and audio from YouTube, TikTok, Instagram, and Facebook. Users can choose the format (MP4 or MP3) and quality of the media they wish to download.
 
 **Features:**
 Download from YouTube, TikTok, Instagram, and Facebook.
