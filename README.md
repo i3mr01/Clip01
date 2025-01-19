@@ -6,29 +6,30 @@ Download from YouTube, TikTok, Instagram, and Facebook.
 Choose between MP4 and MP3 formats.
 Download media in high, medium, or low quality.
 Simple and intuitive user interface.
-Setup and Installation
+
+# Setup and Installation
 Prerequisites
 Python 3.7 or higher
 Pip (Python package installer)
-Installation
-Clone the Repository:
 
+# Installation:
+Clone the Repository:
 sh
 git clone https://github.com/i3mr01/clip01.git
 cd clip01
 
-Install the Required Packages:
-
+# Install the Required Packages:
 sh
 pip install -r requirements.txt
-Create the downloads Directory:
 
+# Create the downloads Directory:
 sh
 mkdir downloads
-Run the Application:
 
+# Run the Application:
 sh
 python app.py
+
 Access the Application:
 Open your web browser and navigate to http://localhost:5000.
 
