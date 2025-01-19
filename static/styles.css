@@ -1,0 +1,138 @@
+/* General Styles */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #121212;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* Logo Section */
+.logo-container {
+  margin-bottom: 20px;
+}
+
+.logo {
+  max-width: 200px;
+  height: auto;
+}
+
+/* Platforms Selector */
+.platforms {
+  display: flex;
+  background: #202020;
+  border-radius: 9999px;
+  padding: 8px;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.platform {
+  padding: 8px 16px;
+  background: #383838;
+  border-radius: 9999px;
+  color: #71717a;
+  cursor: pointer;
+  text-align: center;
+  transition: background 0.3s ease, color 0.3s ease;
+  font-weight: 500;
+}
+
+.platform.active {
+  background: #d0d0d0;
+  color: #000;
+}
+/* come back to me.*/
+
+/* Format Selector */
+.format-selector {
+  display: flex;
+  background: #202020;
+  border-radius: 9999px;
+  padding: 8px;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.format {
+  padding: 8px 16px;
+  background: #383838;
+  border-radius: 9999px;
+  color: #71717a;
+  cursor: pointer;
+  text-align: center;
+  transition: background 0.3s ease, color 0.3s ease;
+  font-weight: 500;
+}
+
+.format.active {
+  background: #d0d0d0;
+  color: #000;
+}
+
+/* Quality Selector */
+.quality-selector {
+  display: flex;
+  background: #202020;
+  border-radius: 9999px;
+  padding: 8px;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.quality {
+  padding: 8px 16px;
+  background: #383838;
+  border-radius: 9999px;
+  color: #71717a;
+  cursor: pointer;
+  text-align: center;
+  transition: background 0.3s ease, color 0.3s ease;
+  font-weight: 500;
+}
+
+.quality.active {
+  background: #d0d0d0;
+  color: #000;
+}
+
+/* Search Bar */
+.search-container {
+  display: flex;
+  align-items: center;
+  background: #383838;
+  border-radius: 50px;
+  padding: 8px;
+  width: 400px;
+  margin-top: 20px;
+}
+
+.search-bar {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+  font-size: 16px;
+  padding: 8px;
+}
+
+.search-button {
+  background: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  font-weight: 500;
+}
+
+.search-button:hover {
+  background: #45a049;
+}
