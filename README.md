@@ -2,6 +2,13 @@
 
 A modern, beautiful video downloader application built with React and Node.js that can download videos from various platforms using yt-dlp.
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](scr1.png)
+
+### Download Panel
+![Download Panel](scr2.png)
 ## Features
 
 - 🎨 Beautiful, modern UI with Aurora background animation
