@@ -9,7 +9,7 @@ A modern video downloader application built with React and Node.js that can down
 ![Download Panel](scs2.png)
 ## Features
 
-- 🎨 Beautiful, modern UI
+- 🎨 Beautiful, modern, easy to use UI
 - ⚡ Fast video information fetching
 - 📱 Responsive design for all devices
 - 🔒 Rate limiting and security features
