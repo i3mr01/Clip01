@@ -1,6 +1,6 @@
 # Clip01 Video Downloader
 
-A modern, beautiful video downloader application built with React and Node.js that can download videos from various platforms using yt-dlp.
+A modern video downloader application built with React and Node.js that can download videos from various platforms using yt-dlp.
 
 ## 📸 Screenshots
 
@@ -9,7 +9,7 @@ A modern, beautiful video downloader application built with React and Node.js th
 ![Download Panel](scs2.png)
 ## Features
 
-- 🎨 Beautiful, modern UI with Aurora background animation
+- 🎨 Beautiful, modern UI
 - ⚡ Fast video information fetching
 - 📱 Responsive design for all devices
 - 🔒 Rate limiting and security features
@@ -157,8 +157,4 @@ If you encounter any issues:
 
 ## License
 
-This project is open source and available under the ISC License.
-
-## Contributing
-
-Feel free to submit issues and enhancement requests! 
+This project is open source and available for everyone to use.
