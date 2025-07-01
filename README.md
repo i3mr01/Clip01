@@ -4,10 +4,8 @@ A modern, beautiful video downloader application built with React and Node.js th
 
 ## 📸 Screenshots
 
-### Home Page
 ![Home Page](scr1.png)
 
-### Download Panel
 ![Download Panel](scr2.png)
 ## Features
 
