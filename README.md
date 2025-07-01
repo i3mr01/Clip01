@@ -6,7 +6,7 @@ A modern, beautiful video downloader application built with React and Node.js th
 
 ![Home Page](scs1.png)
 
-![Download Panel](scr2.png)
+![Download Panel](scs2.png)
 ## Features
 
 - 🎨 Beautiful, modern UI with Aurora background animation
