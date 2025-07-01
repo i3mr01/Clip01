@@ -6,7 +6,7 @@ A modern video downloader application built with React and Node.js that can down
 
 ![Home Page](scs1.png)
 
-![Download Panel](scs2.png)
+![Download veiw](scs2.png)
 ## Features
 
 - 🎨 Beautiful, modern, easy to use UI
@@ -100,7 +100,7 @@ clip01-downloader/
 ## Usage
 
 1. **Open your browser** and go to `http://localhost:3000`
-2. **Paste a video URL** in the input field (YouTube, Vimeo, etc.)
+2. **Paste a video URL** in the input field (YouTube, Tiktok, etc.)
 3. **Click "Download"** to fetch video information
 4. **Choose your preferred format** from the available options
 5. **Click the download link** to start downloading
@@ -109,7 +109,6 @@ clip01-downloader/
 
 Clip01 supports downloading from hundreds of platforms including:
 - YouTube
-- Vimeo
 - Twitter
 - Instagram
 - TikTok
